@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZPxUj5pC32uM+om3OnJ+Ebs46KKV6/hXoRk1HxC6eKDLES2oZUjfA1zx0UYRAgo1NyU0HYD7G+XD1MC8Ex3ksA==",
+  "success": true,
+  "projectFilePath": "D:\\Sem03\\EE3251 Programming Project\\Desktop01\\Desktop01\\Desktop01\\DesktopUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.0-preview1\\communitytoolkit.mvvm.8.2.0-preview1.nupkg.sha512"
+  ],
+  "logs": []
+}
